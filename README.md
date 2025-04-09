@@ -1,6 +1,8 @@
 # System-Analysis-and-Design
 Phân tích và thiết kế hệ thống quản lý cho thuê kho
 
+🌐Link: https://drive.google.com/file/d/1Ppfo9r8yL80SYMQEZTs-LIPCDp_v4hKR/view?usp=sharing
+
 **THÔNG TIN TỔNG QUAN**
 
 **I. Mục tiêu chính của đồ án môn học Phân tích và thiết kế hệ thống**
