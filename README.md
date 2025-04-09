@@ -2,6 +2,7 @@
 Phân tích và thiết kế hệ thống quản lý cho thuê kho
 
 **THÔNG TIN TỔNG QUAN**
+
 **I. Mục tiêu chính của đồ án môn học Phân tích và thiết kế hệ thống**
 
 Phân tích và thiết kế hệ thống quản lý cho thuê kho trực tuyến để kiểm soát quá trình nhập xuất hàng hóa, tối ưu hóa không gian lưu trữ và cho thuê và tăng năng suất làm việc, đồng thời mang lại trải nghiệm tiện lợi cho khách hàng và doanh nghiệp.
