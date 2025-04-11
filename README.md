@@ -1,7 +1,9 @@
 # System-Analysis-and-Design
 Phân tích và thiết kế hệ thống quản lý cho thuê kho
 
-🌐Link: https://drive.google.com/file/d/1Ppfo9r8yL80SYMQEZTs-LIPCDp_v4hKR/view?usp=sharing
+## 🌐Link
+- Report: https://drive.google.com/file/d/1Ppfo9r8yL80SYMQEZTs-LIPCDp_v4hKR/view?usp=sharing
+- UML Diagrams: https://drive.google.com/drive/folders/1VDDRpFFj9meaO0H4TyKrn8gqxpii0F4r?usp=sharing
 
 **THÔNG TIN TỔNG QUAN**
 
