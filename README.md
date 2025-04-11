@@ -4,6 +4,7 @@ Phân tích và thiết kế hệ thống quản lý cho thuê kho
 ## 🌐Link
 - Report: https://drive.google.com/file/d/1Ppfo9r8yL80SYMQEZTs-LIPCDp_v4hKR/view?usp=sharing
 - UML Diagrams: https://drive.google.com/drive/folders/1VDDRpFFj9meaO0H4TyKrn8gqxpii0F4r?usp=sharing
+- Figma: https://www.figma.com/design/ZJx60Ou4XiOAhtuEiRAQw5/SAD-Final-Project?node-id=83-146&t=cCy1RiFcJpYoVAsL-1
 
 **THÔNG TIN TỔNG QUAN**
 
